@@ -18,7 +18,7 @@ url; response_status; response_time<br><br>
 Examples: <br>
 - url answered without errors after 123 milliseconds<br>
   http: //notfake.notfake; 200 OK; 123<br>
-- url not answered <br>
+- url not available <br>
   https: //fake.fake; ; 0<br>
 
 ### Summary at the end of the output file
